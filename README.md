@@ -103,14 +103,18 @@ WordPress is maintained and advanced by a global community of volunteer contribu
 3.  Free as in speech
 4.  Pirate software
 
-**Correct answer: 3** - Free as in speech **Which of the following best describes the nature of open-source software?**
+**Correct answer: 3** - Free as in speech 
+
+**Which of the following best describes the nature of open-source software?**
 
 1.  Resources are crowdsourced via the web and social media.
 2.  The source code is available for anyone to view, modify, and improve.
 3.  A programmer can open the compiled binary software for source code.
 4.  The sofware is available at many online and in-store sources.
 
-**Correct answer: 2** - Source code is available for anyone to view, modify and improve **Which of the following is NOT one of the four freedoms?**
+**Correct answer: 2** - Source code is available for anyone to view, modify and improve 
+
+**Which of the following is NOT one of the four freedoms?**
 
 1.  Study the source code
 2.  Redistributre the software
